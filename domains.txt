@@ -1,4 +1,3 @@
-www.ipchicken.com
 malaysia.com
 www.hugedomains.com
 www.ipaddress.my
@@ -14,7 +13,6 @@ www.pcmag.com
 whatismyipaddress.com
 shopify.com
 www.visa.com.sg
-time.cloudflare.com
 singapore.com
 russia.com
 www.glassdoor.com
@@ -29,7 +27,6 @@ www.csgo.com
 www.gco.gov.qa
 www.iplocation.net
 www.whatismyip.com
-download.yunzhongzhuan.com
 iplocation.io
 www.visa.co.jp
 icook.hk
@@ -41,5 +38,8 @@ www.boba88slot.com
 www.shopify.com
 www.4chan.org
 time.is
-www.who.int
 www.whoer.net
+toy-people.com
+steamdb.info
+dnschecker.org
+ipget.net
